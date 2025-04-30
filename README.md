@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
