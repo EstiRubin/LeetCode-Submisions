@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
 |  |
