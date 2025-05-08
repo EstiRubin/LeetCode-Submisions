@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2048-build-array-from-permutation) |
+## Graph
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Matrix
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
