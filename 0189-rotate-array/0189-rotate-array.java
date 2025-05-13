@@ -6,10 +6,6 @@ class Solution {
         for(int i=0;i<k;i++){
             q.add(q.poll());
         }
-        // for(int i=0;i<q.size();i++){
-        //     System.out.print(" ,"+q.peek());
-        //     q.add(q.poll());
-        // }
         for(int i=nums.length;i>0;i--){
             nums[i-1]=q.poll();
         }
