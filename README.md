@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -85,4 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## String
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
