@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
@@ -100,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
