@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0135-candy) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
