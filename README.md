@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0125-valid-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
