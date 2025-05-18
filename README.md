@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0383-ransom-note) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0392-is-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
