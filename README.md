@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
