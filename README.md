@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0027-remove-element) |
+| [0073-set-matrix-zeroes](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0135-candy) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0073-set-matrix-zeroes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0383-ransom-note) |
