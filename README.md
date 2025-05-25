@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0274-h-index) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0274-h-index) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Math
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/3639-zero-array-transformation-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/EstiRubin/LeetCode-Submisions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
